@@ -226,7 +226,9 @@ footer {
       color: #999999; }
 
 #tag_cloud {
-  margin-bottom: 1em; }
+  margin-bottom: 1em;
+  margin-top: 1rem;
+}
 
 .gist {
   font-size: 13px;
