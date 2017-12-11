@@ -11,7 +11,7 @@ disqus: "gopherwood"
 navigations:
   - title: Archive
     class: fa fa-list-ul
-    href: /blog/archive.html
+    href: /blog/index.html
   - title: Tags
     class: fa fa-tags
     href: /blog/tags.html
