@@ -9,7 +9,7 @@
  * |/ | (~ (~
  * |\.|._)._)
  * --------------------------------- */
-@import url(/blog/media/fonts/telex-regular.css);
+@import url(../fonts/telex-regular.css);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:300);
 @import url(//code.cdn.mozilla.net/fonts/fira.css);
 * {
@@ -22,7 +22,7 @@ body {
   color: #555;
   background-color: #f9f9f9;
   -webkit-font-smoothing: antialiased;
-    background-image: url(/blog/media/img/bg.png);
+    background-image: url(../img/bg.png);
 }
 
 ol, ul {
