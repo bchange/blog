@@ -40,7 +40,7 @@ a { text-decoration: none; color: #bb2222; &:hover { color: #dd1144; }; }
 blockquote { background-color: #f8f8f8; padding: 0 1em; border: 1px dashed #eee !important; border-color: #e0e0e0 !important; font-size: 13px; line-height: 1.6; display: block; overflow: auto; }
 pre code { @extend blockquote; }
 code { background-color: #f8f8f8; padding: 2px 5px; border: 1px dashed #e0e0e0; font-family: #{$monospace}; }
-h1, h2 { font-size: 1.4em; }
+h1, h2 { font-size: 2.2em; }
 time { font-family: #{$time-font} }
 
 header {
@@ -84,7 +84,7 @@ ul.listing {
     list-style-type:none;
     padding: 0;
     &.listing-item { a { padding: .2em 0 .2em 2em; } time { color: #999; } &:hover { background-color: #f9f9f9; } }
-    &.listing-seperator {font-size:1.5rem; font-family: #{$label-font}; &:before { content: ""; color: #ccc; } }
+    &.listing-seperator {font-size:1.5rem; font-family: #{$label-font}; &:before { content: "◆&nbsp;"; color: #ccc; } }
   }
 }
 
