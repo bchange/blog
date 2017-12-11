@@ -142,7 +142,7 @@ ul.listing {
       font-size:1.5rem;
       font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif; }
       ul.listing li.listing-seperator:before {
-        content: "◆&nbsp;";
+        content: "";
         color: #ccc; }
 
 article {
