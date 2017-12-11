@@ -2,7 +2,6 @@ markdown: rdiscount
 highlighter: rouge
 permalink: /:year/:month/:day/:title.html
 name: "BQ"
-markdown: rdiscount
 
 author: "BQ"
 atom-baseurl: "https://bchange.github.io/blog"
