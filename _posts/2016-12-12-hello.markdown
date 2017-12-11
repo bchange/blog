@@ -6,3 +6,5 @@ tags:
 ---
 
 随笔哈哈哈
+
+![图片描述](../media/pic/example.png)
