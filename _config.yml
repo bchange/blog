@@ -6,7 +6,6 @@ markdown: rdiscount
 
 author: "BQ"
 atom-baseurl: "https://bchange.github.io/blog"
-disqus: "gopherwood"
 
 navigations:
   - title: Archive
