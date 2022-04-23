@@ -16,3 +16,5 @@ navigations:
     class: fa fa-user
     href: /blog/about.html
 
+
+theme: jekyll-theme-merlot
